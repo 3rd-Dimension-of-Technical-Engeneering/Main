@@ -57,13 +57,13 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img src="hmda.jpeg" width="15%" alt="hmda.jpeg"
+<img src="https://github.com/3rd-Dimension-of-Technical-Engeneering/3rd-Dimension-of-Technical-Engeneering/issues/2#issue-1446192480" width="15%" alt="hmda.jpeg"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
 <th style=>Office:</th>
-<td>Blocker 619</td>
+<td>Street 60, Elriyaad, Khartoum,Sudan 619</td>
 </tr>
 <tr><!-- Obfuscate your e-mail address to reduce spam -->
 <th style=>E-mail:</th>
@@ -99,7 +99,7 @@ h1 {color: Maroon;}
             <tr>
                 <td style="text-align: left vertical-align:top;font-size:20px"> 2011 - 2016 </td>
                 <td> 
-                    B.S./M.S. in Mathematics, The University of 
+                    B.S./M.S. in Engeneering, The Sudan University
         </tbody>
     </table>
 
@@ -110,19 +110,17 @@ h1 {color: Maroon;}
 
 <tbody> 
 
-<p style="font-size:20px">Howdy! I am a rising fourth year  <a href="https://www.math.tmu.edu/~frank.sottile/"></a> and <a href="https://www.math.tam.edu/directory/formalpg.php?user=plfilho"></a>. My interests lie in  applications.</p>
+<p style="font-size:20px">Howdy! I am a rising fourth year of being expert <a href="[https://www.math.tmu.edu/~frank.sottile/](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)"></a>. My interests lie in building Towers.</p>
 
   <h2>Activities</h2> 
 
 
-<p style="font-size:20px">On May, I attended the <a href="https://sites.google.com/iit.edu/as2022">Algebraic Statistics Conference</a> at the University of Hawai'i at Manoa.
-  </p>
 
 <p style="font-size:20px">
-  <a href="https://github.com/kmaluccio">Kelly Maluccio</a>, Frank Sottile, <a href="https://tjyahl.github.io/">Thomas Yahl</a> and I developed a package in <a href="https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2/share/doc/Macaulay2/RealRoots/html/index.html">Macaulay2</a> called <b> RealRoots</b> for symbolically exploring, counting and locating real solutions to general polynomial systems.
+  My Personal Website <a href="[https://tjyahl.github.io/](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)">Ahmed</a>.
   </p>
 
- <p style="font-size:20px"> <a href="https://www.math.u.edu/directory/formag.php?user=mfaust">Matthew Faust</a>,. 
+ <p style="font-size:20px"> <a href="[https://www.math.u.edu/directory/formag.php?user=mfaust](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)"> is </a>,. 
   </p>
 
 
@@ -133,7 +131,7 @@ h1 {color: Maroon;}
 </ul>
 
 <h2>Service</h2> 
-<p style="font-size:20px">Together with  and <a href="https://www.math.tamu.edu/directory/formalpg.php?user=mae402">555</a>, I organize the <a href="https://www.math.tamu.edu/undergrauate/drp/">Directed Reading Program</a> at ElSudan Uni. Moreover, together with <a href="https://arpan-pal.github.io/">Ahmedal</a>, I organize the Graduate Symposium betwen, The University of N and The University of Oa.</p>
+<p style="font-size:20px">Together with  and <a href="https://www.math.tamu.edu/directory/formalpg.php?user=mae402">555</a>, I organize the <a href="[https://www.math.tamu.edu/undergrauate/drp/](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)">Architectm</a> at ElSudan Uni. Moreover, together with <a href="[https://arpan-pal.github.io/](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)">Ahmedal</a>, I organize the Graduate Symposium.</p>
 </tbody>
 
 
