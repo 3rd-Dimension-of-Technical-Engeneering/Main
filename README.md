@@ -57,7 +57,7 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img src="https://user-images.githubusercontent.com/117595000/201452623-440fa57d-399a-44ae-b3dc-d6e98b639661.jpg" width="15%" alt="hmda.jpeg"
+<img src="https://user-images.githubusercontent.com/117595000/201452623-440fa57d-399a-44ae-b3dc-d6e98b639661.jpg"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
